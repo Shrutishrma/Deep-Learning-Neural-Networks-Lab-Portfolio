@@ -1,8 +1,8 @@
-# 🧠 Deep Learning & Neural Networks: Research Lab Portfolio
+# 🧠 Deep Learning & Neural Networks: Lab Portfolio
 
 This repository contains a comprehensive collection of labs implementations focusing on the design, optimization, and deployment of neural network architectures. The work spans from fundamental mathematical implementations of backpropagation to advanced generative and sequence-based models.
 
-## 📂 Laboratory Directory
+## 📂 Lab Directory - SPR_Lab
 
 ### 1. Foundations of Neural Computation
 * **Lab 1: MLP & Backpropagation Architecture** (`2548554_lab-1.ipynb`)
