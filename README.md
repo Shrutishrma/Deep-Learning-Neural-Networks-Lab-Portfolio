@@ -1,5 +1,3 @@
----
-
 # 🧠 Deep Learning & Neural Networks: Research Lab Portfolio
 
 This repository contains a comprehensive collection of labs implementations focusing on the design, optimization, and deployment of neural network architectures. The work spans from fundamental mathematical implementations of backpropagation to advanced generative and sequence-based models.
